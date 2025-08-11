@@ -85,9 +85,22 @@
 - Minecraft 版本：1.20.1
 - forge版本：47.4.0
 
+---
+
 ## 配置说明
 
+ 1. Distant Horizons 
+根据测试本整合包完全兼容Distant Horizons 2.3.4-b版本，但进入世界后将会根据渲染距离出现40min-3h的世界渲染时间（这段时间内将会是黑屏状态）
+解决方案：在设置中关闭“启用渲染”，调低LOD渲染区块半径距离以减少时间
+ 
+ 2. FancyMenu
+添加主菜单音乐：`config\fancymenu\assets`，音频需要`.ogg`格式
+添加幻灯片：`config\fancymenu\slideshows\slideshows_1\images`，图片需要`.png`格式且需要命名为`image_xxx.png`
 
+ 3. ReTerraForged
+**警告**：本模组兼容较差，且高度自定义化，游玩前请确保你的配置无误且未加载与其有严重冲突的模组（大部分地形模组都与其冲突）。
+
+---
 
 ## 开发须知
 
