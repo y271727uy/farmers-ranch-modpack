@@ -5,6 +5,8 @@
 
 ![License](https://img.shields.io/badge/license-LGPL--3.0(Partial)-blue.svg)  
 ![Version](https://img.shields.io/badge/version-6.5.1-green.svg)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-%2365C737) 
+![Forge](https://img.shields.io/badge/Forge-47.4.0-%23E04E14)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
  
@@ -12,3 +14,4 @@
 
 </h1>
 
+##
