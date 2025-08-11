@@ -175,3 +175,6 @@ We encourage reasonable citation, compliant use, and secondary creation with att
 ---
 
 ## Q&A
+
+Q: Why is this modpack version 6.5.1?  
+A: Actually, this started as a small save file I played in May 2023, which only had 30 mods. As life and academic pressures (and partly due to GregTech) became more overwhelming, I began to immerse myself in leisure and farming. After the fifth version, I officially decided to start working on this modpack.
