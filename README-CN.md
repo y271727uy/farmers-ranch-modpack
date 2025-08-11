@@ -1,4 +1,4 @@
-<p align="center"><img src="" alt="Logo"></p>
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/logo_three.png" alt="Logo"></p>
 <h1 align="center">农夫的牧场：田园牧歌</h1>
 <p align="center">适用于Mincraft 1.20.1 forge的整合包.</p>
 <h1 align="center">
