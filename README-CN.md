@@ -128,9 +128,9 @@
 ## 贡献者名单
 - [y271727uy](https://github.com/y271727uy):拥有者、主创
 - [DancingSonw](https://github.com/DancingSnow0517):技术指导、mod移植
-- [草莓棉花糖](https://x.com/mhtqwq):贡献者、联系人
+- [草莓棉花糖🍥](https://x.com/mhtqwq):贡献者、联系人
 - [五六鸽二世]( https://b23.tv/31jZGZp):前期任务书
-- [你是想气死铨酱么]( https://b23.tv/Jl4DouS):法务
+- [你是想气死铨酱么🍥]( https://b23.tv/Jl4DouS):法务
 - [筱雨awa](https://x.com/_XiaoYu_OvO_):数据整理
 - [这是谁？吃了！](https://x.com/Black_Millet):数据整理
 - [nil](https://x.com/ChariseStever):提供部分主菜单背景图片
@@ -141,7 +141,7 @@
 ## 参与项目与反馈  
 1. 若您希望加入我们的团队进行开发您可通过以下渠道进行联系
 - 邮箱联系(请填写主题)
-- 在X上私信[草莓棉花糖](https://x.com/mhtqwq)
+- 在X上私信[草莓棉花糖🍥](https://x.com/mhtqwq)
 2. 反馈
 若您希望反馈bug、提出建议您可以通过以下渠道
 - github issue

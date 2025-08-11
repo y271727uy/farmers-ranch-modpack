@@ -128,9 +128,9 @@ If there are any omissions, please report them to us via GitHub issue.
 ## Contributors
 - [y271727uy](https://github.com/y271727uy): Owner, Lead Creator
 - [DancingSnow](https://github.com/DancingSnow0517): Technical Guidance, Mod Porting
-- [草莓棉花糖](https://x.com/mhtqwq): Contributor, Contact Person
+- [草莓棉花糖🍥](https://x.com/mhtqwq): Contributor, Contact Person
 - [五六鸽二世](https://b23.tv/31jZGZp): Preliminary Task Book
-- [你是想气死铨酱么](https://b23.tv/Jl4DouS): Legal Affairs
+- [你是想气死铨酱么🍥](https://b23.tv/Jl4DouS): Legal Affairs
 - [筱雨awa](https://x.com/_XiaoYu_OvO_): Data Organization
 - [这是谁？吃了！](https://x.com/Black_Millet): Data Organization
 - [nil](https://x.com/ChariseStever): Provided Some Main Menu Background Images
@@ -141,7 +141,7 @@ If there are any omissions, please report them to us via GitHub issue.
 ## Participating in the Project and Feedback  
 1. If you wish to join our team for development, you can contact us through the following channels:
 - Email (please include the subject)
-- Send a private message on X to [Strawberry Marshmallow](https://x.com/mhtqwq)
+- Send a private message on X to [草莓棉花糖🍥](https://x.com/mhtqwq)
 2. Feedback  
 If you wish to report bugs or suggest improvements, you can use the following channels:
 - GitHub issue
