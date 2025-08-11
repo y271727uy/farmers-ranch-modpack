@@ -100,5 +100,5 @@ To add slides: `config\fancymenu\slideshows\slideshows_1\images`, images need to
  3. **ReTerraForged**  
 **Warning**: This mod has poor compatibility and is highly customizable. Before playing, ensure your configuration is correct and that you are not loading mods that severely conflict with it (most terrain mods conflict with it).
 
- 4. **Create**
+ 4. **Create**  
 **Warning**: Due to API changes in Create version 6.0+, many mods that are no longer updated are incompatible with the API. The highest supported version currently is Create 0.5.1.j.
