@@ -26,7 +26,7 @@
 - [法律信息声明](#-法律信息声明)
 - [Q&A](#-Q&A)
 
-## 特色内容
+## 特色内容 
 🌾 全新的种田体验
 
 剔除掉重复农作物，并为特殊农作物提供详细的种植指南。
@@ -71,7 +71,7 @@
 
 ## 安装指南
 
- 1. 获取整合包
+ 1. 获取整合包  
 你可以在以下平台下载本整合包：
 - CurseForge
 - Modrinth
@@ -79,7 +79,7 @@
 
 本整合包严格遵循[mojang最终用户协议(Minecraft EULA)](https://www.minecraft.net/zh-hans/eula)，以免费更新、免费分发的形式进行传播。任何以付费形式提供下载的行为均属非法
 
- 2. 系统要求
+ 2. 系统要求  
 - Java 版本：Java 17
 - 内存分配：建议 ≥ 4GB
 - Minecraft 版本：1.20.1
@@ -89,15 +89,15 @@
 
 ## 配置说明
 
- 1. Distant Horizons 
+ 1. Distant Horizons   
 根据测试本整合包完全兼容Distant Horizons 2.3.4-b版本，但进入世界后将会根据渲染距离出现40min-3h的世界渲染时间（这段时间内将会是黑屏状态）
 解决方案：在设置中关闭“启用渲染”，调低LOD渲染区块半径距离以减少时间
  
- 2. FancyMenu
+ 2. FancyMenu  
 添加主菜单音乐：`config\fancymenu\assets`，音频需要`.ogg`格式
 添加幻灯片：`config\fancymenu\slideshows\slideshows_1\images`，图片需要`.png`格式且需要命名为`image_xxx.png`
 
- 3. ReTerraForged
+ 3. ReTerraForged  
 **警告**：本模组兼容较差，且高度自定义化，游玩前请确保你的配置无误且未加载与其有严重冲突的模组（大部分地形模组都与其冲突）。
 
 ---

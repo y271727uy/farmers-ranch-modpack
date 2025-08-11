@@ -71,7 +71,7 @@ You can manage a farm and also run a restaurant as a shop owner, allowing you to
 
 ## Installation Guide
 
- 1. **Obtaining the Modpack**
+ 1. **Obtaining the Modpack**   
 You can download this modpack from the following platforms:
 - CurseForge
 - Modrinth
@@ -79,7 +79,7 @@ You can download this modpack from the following platforms:
 
 This modpack strictly follows the [Minecraft EULA](https://www.minecraft.net/zh-hans/eula). It is distributed for free and updated for free. Any behavior that provides downloads for a fee is illegal.
 
- 2. **System Requirements**
+ 2. **System Requirements**  
 - Java Version: Java 17
 - Memory Allocation: Recommended ≥ 4GB
 - Minecraft Version: 1.20.1
@@ -89,13 +89,13 @@ This modpack strictly follows the [Minecraft EULA](https://www.minecraft.net/zh-
 
 ## Configuration Notes
 
- 1. **Distant Horizons**
+ 1. **Distant Horizons**  
 According to tests, this modpack is fully compatible with Distant Horizons 2.3.4-b. However, after entering the world, there will be a world rendering time of 40 minutes to 3 hours based on the render distance (the screen will be black during this time).
 Solution: Disable "Enable Rendering" in the settings and reduce the LOD render block radius to reduce the time.
 
- 2. **FancyMenu**
+ 2. **FancyMenu**  
 To add main menu music: `config\fancymenu\assets`, audio files need to be in `.ogg` format.
 To add slides: `config\fancymenu\slideshows\slideshows_1\images`, images need to be in `.png` format and named as `image_xxx.png`.
 
- 3. **ReTerraForged**
+ 3. **ReTerraForged**  
 **Warning**: This mod has poor compatibility and is highly customizable. Before playing, ensure your configuration is correct and that you are not loading mods that severely conflict with it (most terrain mods conflict with it).
