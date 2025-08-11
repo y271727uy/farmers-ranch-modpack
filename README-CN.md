@@ -23,6 +23,7 @@
 - [贡献者名单](#-贡献者名单)
 - [参与项目与反馈](#-参与项目与反馈)
 - [法律信息声明](#-法律信息声明)
+- [其他声明](#-其他声明)
 - [Q&A](#-Q&A)
 
 ## 特色内容 
@@ -115,22 +116,63 @@
  - 附加协议
  - 第三方项目使用协议
 
+---
+
 ## 署名作品  
 [详见这里](https://github.com/y271727uy/farmers-ranch-modpack/blob/main/License/third-party%20license/license%20list.xlsx) 
 **第三方项目的许可证均在LICENSE文件夹下**
 若有遗漏请通过github issue向我们反馈
 
+---
+
 ## 贡献者名单
 - [y271727uy](https://github.com/y271727uy):拥有者、主创
 - [DancingSonw](https://github.com/DancingSnow0517):技术指导、mod移植
-- [草莓棉花糖](https://x.com/mhtqwq):贡献者
+- [草莓棉花糖](https://x.com/mhtqwq):贡献者、联系人
 - [五六鸽二世]( https://b23.tv/31jZGZp):前期任务书
 - [你是想气死铨酱么]( https://b23.tv/Jl4DouS):法务
 - [筱雨awa](https://x.com/_XiaoYu_OvO_):数据整理
 - [这是谁？吃了！](https://x.com/Black_Millet):数据整理
-- dongziwawawa:摄影
 - [nil](https://x.com/ChariseStever):提供部分主菜单背景图片
+- dongziwawawa:摄影
 
-## 参与项目与反馈
+---
+
+## 参与项目与反馈  
+1. 若您希望加入我们的团队进行开发您可通过以下渠道进行联系
+- 邮箱联系(请填写主题)
+- 在X上私信[草莓棉花糖](https://x.com/mhtqwq)
+2. 反馈
+若您希望反馈bug、提出建议您可以通过以下渠道
+- github issue
+- 邮箱联系(请填写主题)
+- 在线表格
+
+---
 
 ## 法律信息声明
+
+为保障创作者合法权益，**经授权，天津市小药娘网络科技工作室作为本项目的知识产权维权代表及法律事务执行实体。**  
+在发现以下侵权或严重违规行为时，该单位将有权采取包括但不限于发函警告、平台申诉、律师函、民事诉讼等方式追责：
+
+- 未经授权擅自转载、搬运、评测、伪装原创、去署名发布；
+- 擅自修改协议内容并继续传播；
+- 违反本整合包附带的自定义传播协议；
+- 以恶意诽谤、抹黑、断章取义等方式损害作品及作者声誉的行为。
+
+我们鼓励合理引用、合规使用及有署名的二次创作，但对任何形式的恶意侵权行为，将依法追究其法律责任。
+
+---
+
+## 其他声明
+
+- **联系/反馈邮箱**：y871787uy@outlook.com
+- **代执行单位联系方式**：1@ryq59.com  
+- [在线反馈表格](暂未设置)
+- [Bilibili预告片](https://b23.tv/ZP8FzY8)
+- [Bilibili作者主页](https://space.bilibili.com/2014261602?spm_id_from=333.788.upinfo.head.click)
+
+---
+
+## Q&A
+

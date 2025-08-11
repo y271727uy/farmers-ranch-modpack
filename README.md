@@ -23,6 +23,7 @@
 - [Contributors](#-contributors)
 - [Participating in the Project and Feedback](#-participating-in-the-project-and-feedback)
 - [Legal Information](#-legal-information)
+- [Other Declarations](#-other-declarations)
 - [Q&A](#-q&a)
 
 ## Features
@@ -102,4 +103,75 @@ To add slides: `config\fancymenu\slideshows\slideshows_1\images`, images need to
  4. **Create**  
 **Warning**: Due to API changes in Create version 6.0+, many mods that are no longer updated are incompatible with the API. The highest supported version currently is Create 0.5.1.j.
 
+---
 
+## License Agreement
+
+This project adopts a joint licensing approach, and users must comply with all the provisions of the licenses. For details, see the LICENSE folder.
+ - GUN LGPLv3.0
+ - GMPLv1.0
+ - EUROPEAN UNION PUBLIC LICENCE v1.2 (EUPL 1.2)
+ - CC BY CN-4.0
+ - AGPLv3 and SSPLv1 (**choose one based on the usage scenario**)
+ - Additional Agreements
+ - Third-party Project License Agreements
+
+---
+
+## Attributed Works  
+[See details here](https://github.com/y271727uy/farmers-ranch-modpack/blob/main/License/third-party%20license/license%20list.xlsx)  
+**Licenses for third-party projects are all in the LICENSE folder**  
+If there are any omissions, please report them to us via GitHub issue.
+
+---
+
+## Contributors
+- [y271727uy](https://github.com/y271727uy): Owner, Lead Creator
+- [DancingSnow](https://github.com/DancingSnow0517): Technical Guidance, Mod Porting
+- [Strawberry Marshmallow](https://x.com/mhtqwq): Contributor, Contact Person
+- [Five Six Pigeon II](https://b23.tv/31jZGZp): Preliminary Task Book
+- [Are You Trying to Annoy Quan?](https://b23.tv/Jl4DouS): Legal Affairs
+- [Xiao Yu awa](https://x.com/_XiaoYu_OvO_): Data Organization
+- [Who Is This? Eat!](https://x.com/Black_Millet): Data Organization
+- [nil](https://x.com/ChariseStever): Provided Some Main Menu Background Images
+- dongziwawawa: Photography
+
+---
+
+## Participating in the Project and Feedback  
+1. If you wish to join our team for development, you can contact us through the following channels:
+- Email (please include the subject)
+- Send a private message on X to [Strawberry Marshmallow](https://x.com/mhtqwq)
+2. Feedback  
+If you wish to report bugs or suggest improvements, you can use the following channels:
+- GitHub issue
+- Email (please include the subject)
+- Online Form
+
+---
+
+## Legal Information Statement
+
+To protect the legitimate rights and interests of creators, **authorized, Tianjin Xiaoyaonang Network Technology Studio acts as the intellectual property rights enforcement representative and legal affairs executor for this project.**  
+When the following infringement or serious violations are discovered, the entity has the right to take actions including but not limited to sending warning letters, platform complaints, legal notices, and civil litigation to hold accountable:
+
+- Unauthorized reposting， evaluation, pretending to be original, or publishing without attribution;
+- Unauthorized modification of license content and continued distribution;
+- Violation of the custom distribution agreement attached to this modpack;
+- Damaging the reputation of the work and its authors through malicious defamation, smearing, or taking things out of context.
+
+We encourage reasonable citation, compliant use, and secondary creation with attribution, but will pursue legal responsibility for any malicious infringement.
+
+---
+
+## Other Declarations
+
+- **Contact/Feedback Email**: y871787uy@outlook.com
+- **Agent Entity Contact Information**: 1@ryq59.com  
+- [Online Feedback Form](Not yet set up)
+- [Bilibili Trailer](https://b23.tv/ZP8FzY8)
+- [Bilibili Author's Homepage](https://space.bilibili.com/2014261602?spm_id_from=333.788.upinfo.head.click)
+
+---
+
+## Q&A
