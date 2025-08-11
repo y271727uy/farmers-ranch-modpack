@@ -18,7 +18,6 @@
 - [Features](#-features)
 - [Installation Guide](#-installation-guide)
 - [Configuration Notes](#-configuration-notes)
-- [Development Guidelines](#-development-guidelines)
 - [License Agreement](#-license-agreement)
 - [Credits](#-credits)
 - [Contributors](#-contributors)
@@ -102,3 +101,5 @@ To add slides: `config\fancymenu\slideshows\slideshows_1\images`, images need to
 
  4. **Create**  
 **Warning**: Due to API changes in Create version 6.0+, many mods that are no longer updated are incompatible with the API. The highest supported version currently is Create 0.5.1.j.
+
+

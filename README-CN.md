@@ -18,7 +18,6 @@
 - [特色内容](#-特色内容)
 - [安装指南](#-安装指南)
 - [配置说明](#-配置说明)
-- [开发须知](#-开发须知)
 - [许可协议](#-许可协议)
 - [署名作品](#-署名作品)
 - [贡献者名单](#-贡献者名单)
@@ -105,14 +104,32 @@
 
 ---
 
-## 开发须知
-
-
 ## 许可协议
 
-## 署名作品
+本项目采用联合授权方式，使用者必须同时遵守全部协议的规定,详见LICENSE文件夹
+ - GUN LGPLv3.0
+ - GMPLv1.0
+ - EUROPEAN UNION PUBLIC LICENCEv1.2 （EUPL 1.2）
+ - CC BY CN-4.0
+ - AGPLv3 与 SSPLv1(**根据使用场景**选择其一)
+ - 附加协议
+ - 第三方项目使用协议
+
+## 署名作品  
+[详见这里](https://github.com/y271727uy/farmers-ranch-modpack/blob/main/License/third-party%20license/license%20list.xlsx) 
+**第三方项目的许可证均在LICENSE文件夹下**
+若有遗漏请通过github issue向我们反馈
 
 ## 贡献者名单
+- [y271727uy](https://github.com/y271727uy)拥有者，主创
+- [DancingSonw](https://github.com/DancingSnow0517)
+- [草莓棉花糖](https://x.com/mhtqwq)贡献者
+- [五六鸽二世]( https://b23.tv/31jZGZp)前期任务书
+- [你是想气死铨酱么]( https://b23.tv/Jl4DouS)法务
+- [筱雨awa](https://x.com/_XiaoYu_OvO_)数据整理
+- [这是谁？吃了！](https://x.com/Black_Millet)数据整理
+- [dongziwawawa]摄影
+- [nil](https://x.com/ChariseStever)提供主菜单背景图片
 
 ## 参与项目与反馈
 
