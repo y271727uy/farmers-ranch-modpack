@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/logo/logo_three.png" alt="Logo"></p>
+<p align="center"><img src="" alt="Logo"></p>
 <h1 align="center">农夫的牧场：田园牧歌</h1>
 <p align="center">适用于Mincraft 1.20.1 forge的整合包.</p>
 <h1 align="center">
@@ -22,6 +22,8 @@
 - [许可协议](#-许可协议)
 - [署名作品](#-署名作品)
 - [贡献者名单](#-贡献者名单)
+- [参与项目与反馈](#-参与项目与反馈)
+- [法律信息声明](#-法律信息声明)
 
 ## 特色内容
 
@@ -37,3 +39,6 @@
 
 ## 贡献者名单
 
+## 参与项目与反馈
+
+## 法律信息声明
