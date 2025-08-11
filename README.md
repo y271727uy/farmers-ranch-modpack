@@ -64,7 +64,7 @@ The only exception is "Let's Do Vinery," which is used to complete the missing w
 ---
 🍲 **Farming + Simulation Management**
 
-It can be understood as a combination of **Stardew Valley** and **Yoru Suzu Shokudo**:
+It can be understood as a combination of **Stardew Valley** and **Touhou Mystia's Izakaya**:
 You can manage a farm and also run a restaurant as a shop owner, allowing you to switch freely between being a farmer and a business owner.
 
 ---
