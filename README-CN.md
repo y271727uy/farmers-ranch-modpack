@@ -92,6 +92,8 @@
  1. **Distant Horizons**   
 根据测试本整合包完全兼容Distant Horizons 2.3.4-b版本，但进入世界后将会根据渲染距离出现40min-3h的世界渲染时间（这段时间内将会是黑屏状态）  
 解决方案：在设置中关闭“启用渲染”，调低LOD渲染区块半径距离以减少时间
+
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_1.png" alt="Logo"></p>
  
  2. **FancyMenu**  
 添加主菜单音乐：`config\fancymenu\assets`，音频需要`.ogg`格式
