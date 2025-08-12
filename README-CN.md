@@ -134,6 +134,7 @@
 - [筱雨awa](https://x.com/_XiaoYu_OvO_):数据整理
 - [这是谁？吃了！](https://x.com/Black_Millet):数据整理
 - [nil](https://x.com/ChariseStever):提供部分主菜单背景图片
+- [🏳️‍⚧️yc🍥](https://x.com/yccc_0000):贡献者Contributor
 - dongziwawawa:摄影
 
 ---

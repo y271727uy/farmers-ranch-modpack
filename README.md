@@ -134,6 +134,7 @@ If there are any omissions, please report them to us via GitHub issue.
 - [筱雨awa](https://x.com/_XiaoYu_OvO_): Data Organization
 - [这是谁？吃了！](https://x.com/Black_Millet): Data Organization
 - [nil](https://x.com/ChariseStever): Provided Some Main Menu Background Images
+- [🏳️‍⚧️yc🍥](https://x.com/yccc_0000):Contributor
 - dongziwawawa: Photography
 
 ---
