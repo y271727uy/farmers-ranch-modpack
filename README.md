@@ -8,7 +8,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-%2365C737) 
 ![Forge](https://img.shields.io/badge/Forge-47.4.0-%23E04E14)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)  
 [![CurseForge](https://img.shields.io/badge/CurseForge-orange?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/y271727uy/farmers-ranch-modpack)
