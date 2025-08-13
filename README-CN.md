@@ -14,7 +14,8 @@
 
 </h1>
 
-##链接
+## 链接
+
 [![CurseForge](https://img.shields.io/badge/CurseForge-orange?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com)
 [![MC百科](https://img.shields.io/badge/mc百科-green.svg)](https://www.mcnod.cn/)
