@@ -8,19 +8,15 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-%2365C737) 
 ![Forge](https://img.shields.io/badge/Forge-47.4.0-%23E04E14)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
- 
-[English](https://github.com/y271727uy/farmers-ranch-modpack/tree/main) | 简体中文
-
-</h1>
-
-## 链接
-
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)  
 [![CurseForge](https://img.shields.io/badge/CurseForge-orange?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com)
 [![MC百科](https://img.shields.io/badge/mc百科-green.svg)](https://www.mcnod.cn/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com)
+ 
+[English](https://github.com/y271727uy/farmers-ranch-modpack/tree/main) | 简体中文
 
+</h1>
 
 ## 📜 目录
 - [特色内容](#-特色内容)
