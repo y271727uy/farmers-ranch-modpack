@@ -28,7 +28,7 @@ English | [简体中文](https://github.com/y271727uy/farmers-ranch-modpack/blob
 - [Contributors](#-contributors)
 - [Participating in the Project and Feedback](#-participating-in-the-project-and-feedback)
 - [Legal Information](#-legal-information)
-- [Other Declarations](#-other-declarations)
+- [Other](#-other)
 - [FAQ](#-FAQ)
 
 ## Features
@@ -172,7 +172,7 @@ We encourage reasonable citation, compliant use, and secondary creation with att
 
 ---
 
-## Other Declarations
+## Other 
 
 - **Contact/Feedback Email**: y871787uy@outlook.com
 - **Agent Entity Contact Information**: 1@ryq59.com  
