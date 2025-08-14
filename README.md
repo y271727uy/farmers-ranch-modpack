@@ -45,6 +45,7 @@ Trade is no longer just an economic theory but an essential part of life and the
 Reconnect the world through trade and economy.
 
 <p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_2.png" alt="Logo"></p>
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_7.png" alt="Logo"></p>
 
 ---
 💤 **Relaxing but Not Empty Leisure Pack**
