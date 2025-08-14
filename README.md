@@ -44,8 +44,11 @@ Villagers are no longer just decorations! In multiplayer games, players can trad
 Trade is no longer just an economic theory but an essential part of life and the game.
 Reconnect the world through trade and economy.
 
-<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_2.png" alt="Logo"></p>
-<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_7.png" alt="Logo"></p>
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  < img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_2.png" alt="图1" style="max-height:150px;">
+  < img src="图片2链接" alt="图2" style="max-height:150px;">
+  < img src="图片3链接" alt="图3" style="max-height:150px;">
+</div>
 
 ---
 💤 **Relaxing but Not Empty Leisure Pack**
