@@ -98,7 +98,7 @@ This modpack strictly follows the [Minecraft EULA](https://www.minecraft.net/zh-
 According to tests, this modpack is fully compatible with Distant Horizons 2.3.4-b. However, after entering the world, there will be a world rendering time of 40 minutes to 3 hours based on the render distance (the screen will be black during this time).
 Solution: Disable "Enable Rendering" in the settings and reduce the LOD render block radius to reduce the time.
 
-<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_1.png" alt="Logo"></p>
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_11.png" alt="Logo"></p>
 
  2. **FancyMenu**  
 To add main menu music: `config\fancymenu\assets`, audio files need to be in `.ogg` format.
