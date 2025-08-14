@@ -44,6 +44,8 @@
 贸易不再只是经济学的理论，而是融入生活与游戏的必需品。 
 通过贸易与经济，重新连接整个世界。 
 
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_2.png" alt="Logo"></p>
+
 ---
 💤 松弛但不空虚的休闲包
 
