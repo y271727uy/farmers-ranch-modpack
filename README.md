@@ -37,6 +37,8 @@ English | [简体中文](https://github.com/y271727uy/farmers-ranch-modpack/blob
 Eliminating repetitive crops and providing detailed planting guides for special crops.
 Based on the "Four Major Agricultures" of the real world, the agricultural gameplay is enriched to make farming more than just "planting."
 
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_12.png" alt="Logo"></p>
+
 ---
 💰 **Complete Economy and Currency System**
 

@@ -37,6 +37,8 @@
 剔除掉重复农作物，并为特殊农作物提供详细的种植指南。
 以现实世界的“四大农业”为基础，丰富农业玩法，让农业不再只是单一的“种地”。
 
+<p align="center"><img src="https://github.com/y271727uy/farmers-ranch-modpack/blob/main/image/image_12.png" alt="Logo"></p>
+
 ---
 💰 完整的经济与货币系统
 
