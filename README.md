@@ -180,7 +180,7 @@ We encourage reasonable citation, compliant use, and secondary creation with att
 
 - **Contact/Feedback Email**: y871787uy@outlook.com
 - **Agent Entity Contact Information**: 1@ryq59.com  
-- [Online Feedback Form](Not yet set up)
+- [Online Feedback Form](https://www.kdocs.cn/l/cdVWQIY9xaRY)
 - [Bilibili Trailer](https://b23.tv/ZP8FzY8)
 - [Bilibili Author's Homepage](https://space.bilibili.com/2014261602?spm_id_from=333.788.upinfo.head.click)
 
