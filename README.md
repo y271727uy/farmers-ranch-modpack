@@ -140,12 +140,6 @@ If there are any omissions, please report them to us via GitHub issue.
 ## Developers and Contributors List
 - [y271727uy](https://github.com/y271727uy): Owner, Lead Developer, Programmer
 - [DancingSonw](https://github.com/DancingSnow0517): Technical Advisor, Mod Porting
-=======
-## Contributors
-- [y271727uy](https://github.com/y271727uy): Owner, Lead Creator
-- [DancingSnow](https://github.com/DancingSnow0517): Technical Guidance, Mod Porting
-- [五六鸽二世](https://b23.tv/31jZGZp): Preliminary Task Book
->>>>>>> 8816b1edc8c40ef965fd08230748d21f828e7458
 - [你是想气死铨酱么🍥](https://b23.tv/Jl4DouS): Legal Affairs
 - [小弥](https://space.bilibili.com/359896908): FTB Quests
 - [NaHCO₃​](): Artist
