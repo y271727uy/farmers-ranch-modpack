@@ -142,7 +142,7 @@ If there are any omissions, please report them to us via GitHub issue.
 - [DancingSonw](https://github.com/DancingSnow0517): Technical Advisor, Mod Porting
 - [你是想气死铨酱么🍥](https://b23.tv/Jl4DouS): Legal Affairs
 - [小弥](https://space.bilibili.com/359896908): FTB Quests
-- [NaHCO₃​](): Artist
+- [NaHCO₃​](https://space.bilibili.com/2137226025): Artist
 - [五六鸽二世](https://b23.tv/31jZGZp): Early Quest Writing
 - [筱雨awa](https://x.com/_XiaoYu_OvO_): Data Organization
 - [这是谁？吃了！](https://x.com/Black_Millet): Data Organization

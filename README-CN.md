@@ -141,7 +141,7 @@
 - [DancingSonw](https://github.com/DancingSnow0517):技术指导、mod移植
 - [你是想气死铨酱么🍥]( https://b23.tv/Jl4DouS):法务
 - [小弥](https://space.bilibili.com/359896908):FTB任务
-- [NaHCO₃​]():美工
+- [NaHCO₃​](https://space.bilibili.com/2137226025):美工
 - [五六鸽二世]( https://b23.tv/31jZGZp):前期任务书
 - [筱雨awa](https://x.com/_XiaoYu_OvO_):数据整理
 - [这是谁？吃了！](https://x.com/Black_Millet):数据整理
