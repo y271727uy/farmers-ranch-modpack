@@ -136,7 +136,7 @@ If there are any omissions, please report them to us via GitHub issue.
 
 ---
 
-<<<<<<< HEAD
+
 ## Developers and Contributors List
 - [y271727uy](https://github.com/y271727uy): Owner, Lead Developer, Programmer
 - [DancingSonw](https://github.com/DancingSnow0517): Technical Advisor, Mod Porting
