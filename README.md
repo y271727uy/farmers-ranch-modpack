@@ -136,16 +136,17 @@ If there are any omissions, please report them to us via GitHub issue.
 
 ---
 
-## Contributors
-- [y271727uy](https://github.com/y271727uy): Owner, Lead Creator
-- [DancingSnow](https://github.com/DancingSnow0517): Technical Guidance, Mod Porting
-- [草莓棉花糖🍥](https://x.com/mhtqwq): Contributor, Contact Person
-- [五六鸽二世](https://b23.tv/31jZGZp): Preliminary Task Book
+## Developers and Contributors List
+- [y271727uy](https://github.com/y271727uy): Owner, Lead Developer, Programmer
+- [DancingSonw](https://github.com/DancingSnow0517): Technical Advisor, Mod Porting
 - [你是想气死铨酱么🍥](https://b23.tv/Jl4DouS): Legal Affairs
+- [小弥](https://space.bilibili.com/359896908): FTB Quests
+- [NaHCO₃​](): Artist
+- [五六鸽二世](https://b23.tv/31jZGZp): Early Quest Writing
 - [筱雨awa](https://x.com/_XiaoYu_OvO_): Data Organization
 - [这是谁？吃了！](https://x.com/Black_Millet): Data Organization
-- [nil](https://x.com/ChariseStever): Provided Some Main Menu Background Images
-- [🏳️‍⚧️yc🍥](https://x.com/yccc_0000):Contributor
+- [nil](https://x.com/ChariseStever): Provided some main menu background images
+- [🏳️‍⚧️yc🍥](https://x.com/yccc_0000): Contributor
 - dongziwawawa: Photography
 
 ---
