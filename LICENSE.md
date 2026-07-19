@@ -1,62 +1,35 @@
-# 联合授权声明
 
-本项目采用联合授权方式，使用者必须同时遵守以下全部协议的规定：
+Business Source License 1.1
+License text copyright (c) 2023 MariaDB plc, All Rights Reserved.
+“Business Source License” is a trademark of MariaDB plc.
 
-- **GNU 宽通用公共许可证（LGPL）3.0** 是本整合包的**授权主协议**，决定使用、修改与分发的法律授权范围；
-- **通用整合包公共许可协议（GMPL）v1.0** 是本整合包的**传播主协议**，规范整合包在结构、组织、打包、评测等方面的使用行为；
-- 另有若干附加条款和第三方协议适用于特定内容。
+Terms
 
----
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use.
 
-1. **GNU 宽通用公共许可证（LGPL）3.0**（授权主协议 / 法律协议）
+Effective on the Change Date, or the sixtieth (60th) anniversary of the first publicly available distribution of a specific version of the Licensed Work under this License, whichever comes first, the Licensor hereby grants you rights under the terms of the Change License (LGPLv3), and the rights granted in the paragraph above terminate.
 
-   - 本整合包整体在法律授权层面遵循 LGPL 3.0 协议。
-   - 涵盖范围包括：
-     - 本项目原创内容（如配置文件、脚本结构等）；
-     - 引入的 LGPL 授权资源（如贴图、模组代码等）。
-   - 使用者可在遵守 LGPL 3.0 条款的前提下，自由复制、修改与再发布。
-   - 协议文件路径：`LICENSES/LICENSE-LGPLv3.0.md`
+If your use of the Licensed Work does not comply with the requirements currently in effect as described in this License, you must purchase a commercial license from the Licensor, its affiliated entities, or authorized resellers, or you must refrain from using the Licensed Work.
 
-2. **通用整合包公共许可协议（GMPL）v1.0**（传播主协议 / 结构性规范协议）
+All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this License. This License applies separately for each version of the Licensed Work and the Change Date may vary for each version of the Licensed Work released by Licensor.
 
-   - 用于规范整合包的组织方式、传播渠道、版本结构、标注格式等非技术层面的行为。
-   - 例如：评测要求、分发限制、修改发布说明等。
-   - GMPL 作为行为层面的补充协议，并不限制 LGPL 所赋予的基本自由。
-   - 协议文件路径：`LICENSES/LICENSE-GMPLv1.0.md`
-   - GMPL 协议为本项目原创协议，其内容仅适用于本整合包及其传播行为。
-   - 若您希望在其他项目中使用 GMPL 协议，可自由下载、修改并引用，仅需保留原作者署名信息（署名人名称可自定义修改）。
-   - 为了方便使用在`License\template`下我们为您准备了可修改的协议模板
+You must conspicuously display this License on each original or modified copy of the Licensed Work. If you receive the Licensed Work in original or modified form from a third party, the terms and conditions set forth in this License apply to your use of that work.
 
-3. **附加协议**（限制性补充条款）
+Any use of the Licensed Work in violation of this License will automatically terminate your rights under this License for the current and all other versions of the Licensed Work.
 
-   - 对特定内容的传播和使用设有额外限制，如禁止上传至特定平台、禁止公开评测等。
-   - 附加协议不改变 LGPL 或 GMPL 的核心条款，仅针对个别内容进行限定。
-   - 协议文件路径：`LICENSES/LICENSE-ADDITIONAL.md`
+This License does not grant you any right in any trademark or logo of Licensor or its affiliates (provided that you may use a trademark or logo of Licensor as expressly required by this License).
 
-4. **其他协议**
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON AN "AS IS" BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE.
 
-   - 本项目中引入的其他第三方资源（如 MIT、CC BY、专用协议资源等）仍保留其原始授权效力。
-   - 所有此类资源与原协议均在 **《第三方资源清单》** 中列明。文件路径：`License\third-party license`
-   - 原始协议文件统一存放于目录：`LICENSES/third-party license`，并采用 `license-项目名.md` 格式命名。
+MariaDB hereby grants you permission to use this License's text to license your works, and to refer to it using the trademark "Business Source License", as long as you comply with the Covenants of Licensor below.
 
-5. **CC BY-NC 4.0 授权贴图特别声明**
+Covenants of Licensor
 
-- 本项目中部分资源，**仅受 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** 协议管辖，**不受本整合包其他协议约束**。  
-- 根据该协议，**禁止任何未经明确授权的商业使用**。  
-- 若未来获得授权并计划对本整合包进行商业使用，必须**移除或替换所有受 CC BY-NC 4.0 授权限制的资源**，确保整合包在商业使用下的合规性。  
-- 该部分资源的原始协议文件存放于：`LICENSES/third-party license/`。
+In consideration of the right to use this License's text and the "Business Source License" name and trademark, Licensor covenants to MariaDB, and to all other recipients of the licensed work to be provided by Licensor:
 
----
+1. To specify as the Change License the LGPLv3, or a license that is compatible with LGPLv3.
+2. To either: (a) specify an additional grant of rights to use that does not impose any additional restriction on the right granted in this License, as the Additional Use Grant; or (b) insert the text "None".
+3. To specify a Change Date (in this version, sixty (60) years after first public distribution).
+4. Not to modify this License in any other way.
 
-## 使用者须知
-
-在使用、修改或再分发本整合包之前，您必须确保已详细阅读并理解上述全部协议内容。特别请注意：
-
-- 法律委托声明详见`LICENSES/Legal Notice.md`;
-- 本整合包整体以 LGPL 3.0 为授权主协议；
-- GMPL v1.0 补充约定整合包的传播和组织规范；
-- 部分资源受CC BY-NC 4.0协议管辖，LGPL 3.0与GMPL v1.0无管辖权；
-- 附加协议和其他协议对部分内容具有限制或要求；
-- 您应对所有协议条款保持尊重和遵守。
-
-如有疑问或需获得个别条款的授权豁免，请联系项目维护者。
+Please refer to the Additional Use Grant file for specific limitations on derivative works and redistribution prior to the Change Date.
